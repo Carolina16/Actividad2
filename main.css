@@ -166,7 +166,7 @@
     display: inline-block;
 }
 .p3{
-    margin: 20px 10px;
+    margin: 20px 10px 20px 10px;
     width: 880px;
     height: 520px;
     background-color:coral ;
@@ -194,65 +194,66 @@
     display: inline-block;
 }
 .p7{
-    margin:10px 20px ;
+    margin:10px 20px  ;
     width: 840px;
-    height: 500px;
-    background-color: violet;
+    height: 500px; ;
+    background-color:black ;
     display: inline-block;
 }
 .p8{
-    margin: 20px 30px ;
-    width:780px ;
-    height:460px ;
-    background-color: yellow;
+    margin:20px 30px  ;
+    width: 780px;
+    height: 460px; ;
+    background-color: brown;
     display: inline-block;
 }
+
 .r{
-    margin:70px 60px;
-    width:920px ;
+    margin:70px 60px ;
+    width: 920px;
     height: 1480px;
-    background-color: purple;
+    background-color: #5D2C8A;
     display: inline-block;
 }
 .r1{
-    margin:20px 60px 20px 40px;
+    margin: 20px 60px 40px 40px ;
     width: 820px;
     height: 1200px;
-    background-color:black;
+    background-color:aliceblue ;
     display: inline-block;
 }
 .r2{
-    margin: 20px 30px 15px 30px;
+    margin: 20px 30px 30px 30px;
     width: 760px;
     height: 300px;
-    background-color: yellow;
+    background-color: aqua;
     display: inline-block;
 }
 .r3{
-    margin:15px 20px 7.5px 40px;
+    margin: 0px 20px 15px 40px;
     width: 760px;
     height: 300px;
-    background-color:white;
+    background-color:brown ;
     display: inline-block;
 }
 .r4{
-    margin:7.5px 40px 7.5px 20px;
-    width: 760px;
+    margin: 0px 40px 15px 20px;
+    width: 760px ;
     height: 300px;
-    background-color: red;
+    background-color:darkkhaki ;
     display: inline-block;
 }
 .r5{
-    margin:7.5px 45px 20px 15px;
+    margin: 0px 45px 20px 15px;
     width: 760px;
     height: 200px;
-    background-color: blue;
+    background-color:darkgreen ;
     display: inline-block;
 }
 .r6{
-    margin:20px 100px 40px 100px;
+    margin:0px 100px 60px 100px ;
     width: 700px;
     height: 200px;
-    background-color: violet;
+    background-color:darkorange ;
     display: inline-block;
 }
